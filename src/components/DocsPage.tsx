@@ -65,7 +65,7 @@ export const DocsPage = () => {
             <h2 className="text-2xl font-semibold mb-6 text-[#fe2c55]">Resources</h2>
             <div className="grid gap-4 sm:grid-cols-2">
               <a 
-                href="https://x.com/watch_aiko" 
+                href="https://x.com/aikowakesup" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between p-4 bg-neutral-50 dark:bg-neutral-800 rounded-lg border border-[#fe2c55]/20 hover:border-[#fe2c55] transition-colors"
